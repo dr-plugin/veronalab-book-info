@@ -1,0 +1,12 @@
+{
+    "require": {
+        "veronalabs/rabbit": "^1.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\Src\\": "src/"
+        }
+    },
+    "config": {
+    }
+}
